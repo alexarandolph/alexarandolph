@@ -1,7 +1,7 @@
 ## Hi! I'm Alexa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexa-randolph/)
 <br>
-🗽 I am currently a software engineering student at Hack Reactor in New York, NY. I am from Miami, FL.
+🗽 I am a Hack Reactor graduate currently living in New York, NY. I am from Miami, FL.
 <br>
 🧠 I’m interested in tackling complex issues and creating solutions that foster human connection.
 <br>
